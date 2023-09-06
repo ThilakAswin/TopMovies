@@ -87,7 +87,7 @@ img{
 
 @media screen and (max-width : 800px) {
     .content{
-        height: 15h;
+        height: 15vh;
     }
     .body{
         justify-content: flex-end;
