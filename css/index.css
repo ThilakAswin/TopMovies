@@ -87,10 +87,10 @@ img{
 
 @media screen and (max-width : 800px) {
     .content{
-        height: 15vh;
+        height: 12vh;
     }
     .body{
-        justify-content: flex-end;
+        justify-content: flex-start;
         gap: 30px;
     }
 }
