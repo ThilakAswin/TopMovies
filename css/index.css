@@ -83,6 +83,10 @@ img{
 
 @media screen and (max-width : 800px) {
     .content{
-        height: 10vh;
+       
+        height: 12vh;
+    }
+    .body{
+        gap: 40px;
     }
 }
