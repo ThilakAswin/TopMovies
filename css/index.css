@@ -85,7 +85,7 @@ img{
     color: rgb(255, 0, 0);
 }
 
-@media screen and (max-width : 800px) {
+/* @media screen and (max-width : 800px) {
     .content{
             height: 8vh;
     }
@@ -94,4 +94,4 @@ img{
         justify-content: center;
     }
     
-}
+} */
